@@ -1,0 +1,47 @@
+* {
+    color:purple;
+}
+div {
+    color: white;
+    background-color: gray;
+}
+
+.alert-text {
+    color: red;
+}
+
+#title {
+    background-color: red;
+}
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    font-style: normal;
+    font-family: monospace;
+}
+
+.unread {
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subsection.header {
+    color: red;
+}
+.subsection#preview {
+    color: blue;
+}
+
+.ancestor .contents {
+    color: pink;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
